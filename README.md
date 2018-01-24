@@ -7,26 +7,26 @@ Companion repo for my blog article [From Gulp to Webpack2](http://alkal.gr/blog/
 
 ## Development
 
-Clone the repo
+1. Clone the repo
 
-Install the dependencies:
+2. Install the dependencies:
 
 ```bash
 npm i
 ```
 
-Build:
+3a. Build:
 
 ```bash
 npm run build
 ```
 
-Build for production:
+3b. (or) Build for production:
 
 ```bash
 npm run build:prod
 ```
 
-## Meta
+## Author
 
 Alexandros Kalamatianos - [alkal.gr](https://www.alkal.gr)
